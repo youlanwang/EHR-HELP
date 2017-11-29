@@ -1,0 +1,26 @@
+{
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false,
+      "all": false
+    }
+  },
+
+"plugins": [
+   "-sharing","-search","tbfed-pagefooter","toggle-chapters","search-pro"
+],
+"pluginsConfig": {
+    "tbfed-pagefooter": {
+        "copyright":"Copyright &copy zhangjikai.com 2015",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+"search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+    }
+}
+}
