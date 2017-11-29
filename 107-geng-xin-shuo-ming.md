@@ -12,7 +12,7 @@ EHR1.0.7上线了简历私有库，影响最大的就是电销中心的小伙伴
 
 原先的**“预约拨打”**和**“我的候选人”**合并为**“候选人”**菜单
 
-![](https://images-cdn.shimo.im/olsA5I5siUYNVxUi/image.png!thumbnail)
+![](/assets/image.png!thumbnail)
 
 今后大家的预约数据就在这里进行管理啦。
 
