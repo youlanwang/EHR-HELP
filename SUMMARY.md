@@ -6,7 +6,7 @@
   * [查看报备历史](cha-kan-bao-bei-guo-de-xiang-mu.md)
 * [更新记录](geng-xin-ji-lu.md)
   * [1.0.7 更新说明](/107-geng-xin-shuo-ming.md)
-  * [1.0.8 更新说明](https://www.gitbook.com/book/youlanwang/ehr-help/edit#)
+  * [1.0.8 更新说明](/108-geng-xin-shuo-ming.md)
 
 
 
