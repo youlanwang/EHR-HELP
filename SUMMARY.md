@@ -10,5 +10,15 @@
   * [1.0.8 更新说明](/108-geng-xin-shuo-ming.md)
 * [使用手册](/shi-yong-shou-ce.md)
   * [报备操作手册](/bao-bei-cao-zuo-shou-ce.md)
-    * [test](bao-bei-cao-zuo-shou-ce/test.md)
+* [操作手册](mu-lu.md)
+  * [目录](mu-lu/test.md)
+  * [1.客户管理](mu-lu/ke-hu-guan-li.md)
+    * [1.1企业管理](mu-lu/ke-hu-guan-li/qi-ye-guan-li.md)
+      * [1.1.1创建企业](mu-lu/ke-hu-guan-li/qi-ye-guan-li/111chuang-jian-qi-ye.md)
+      * [1.1.2企业编辑](mu-lu/ke-hu-guan-li/qi-ye-guan-li/112qi-ye-bian-ji.md)
+      * [1.1.3企业认领](mu-lu/ke-hu-guan-li/qi-ye-guan-li/113qi-ye-ren-ling.md)
+      * [1.1.4添加企业联系人](mu-lu/ke-hu-guan-li/qi-ye-guan-li/114tian-jia-qi-ye-lian-xi-ren.md)
+      * 1.1.5添加附件
+      * 1.1.6添加需求
+      * 1.1.7需求立项
 
