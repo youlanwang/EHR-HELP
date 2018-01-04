@@ -19,6 +19,6 @@
       * [1.1.3企业认领](mu-lu/ke-hu-guan-li/qi-ye-guan-li/113qi-ye-ren-ling.md)
       * [1.1.4添加企业联系人](mu-lu/ke-hu-guan-li/qi-ye-guan-li/114tian-jia-qi-ye-lian-xi-ren.md)
       * [1.1.5添加附件](mu-lu/ke-hu-guan-li/qi-ye-guan-li/115tian-jia-fu-jian.md)
-      * 1.1.6添加需求
-      * 1.1.7需求立项
+      * [1.1.6添加需求](mu-lu/ke-hu-guan-li/qi-ye-guan-li/116tian-jia-xu-qiu.md)
+      * [1.1.7需求立项](mu-lu/ke-hu-guan-li/qi-ye-guan-li/117xu-qiu-li-xiang.md)
 
