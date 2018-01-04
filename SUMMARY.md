@@ -21,4 +21,9 @@
       * [1.1.5添加附件](mu-lu/ke-hu-guan-li/qi-ye-guan-li/115tian-jia-fu-jian.md)
       * [1.1.6添加需求](mu-lu/ke-hu-guan-li/qi-ye-guan-li/116tian-jia-xu-qiu.md)
       * [1.1.7需求立项](mu-lu/ke-hu-guan-li/qi-ye-guan-li/117xu-qiu-li-xiang.md)
+    * [1.2供应商管理](mu-lu/ke-hu-guan-li/12gong-ying-shang-guan-li.md)
+      * [1.2.1创建供应商](mu-lu/ke-hu-guan-li/12gong-ying-shang-guan-li/121chuang-jian-gong-ying-shang.md)
+    * [1.3院校管理](mu-lu/ke-hu-guan-li/13yuan-xiao-guan-li.md)
+      * [1.3.1创建院校](mu-lu/ke-hu-guan-li/131chuang-jian-yuan-xiao.md)
+    * [1.4其它说明](mu-lu/ke-hu-guan-li/14qi-ta-shuo-ming.md)
 
