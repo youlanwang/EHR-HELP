@@ -26,4 +26,35 @@
     * [1.3院校管理](mu-lu/ke-hu-guan-li/13yuan-xiao-guan-li.md)
       * [1.3.1创建院校](mu-lu/ke-hu-guan-li/131chuang-jian-yuan-xiao.md)
     * [1.4其它说明](mu-lu/ke-hu-guan-li/14qi-ta-shuo-ming.md)
+  * [2.业务管理](mu-lu/test/2ye-wu-guan-li.md)
+    * [2.1项目设置](mu-lu/test/2ye-wu-guan-li/21xiang-mu-she-zhi.md)
+      * [2.1.1查找项目](mu-lu/test/2ye-wu-guan-li/21xiang-mu-she-zhi/211cha-zhao-xiang-mu.md)
+      * 2.1.2项目发布（待执行转为执行中）
+      * 2.1.3添加/修改面试排期
+    * [2.2线下人员使用报备方式说明](mu-lu/test/2ye-wu-guan-li/22xian-xia-ren-yuan-shi-yong-bao-bei-fang-shi-shuo-ming.md)
+      * [2.2.1在线报备/批量报备](mu-lu/test/2ye-wu-guan-li/22xian-xia-ren-yuan-shi-yong-bao-bei-fang-shi-shuo-ming/221zai-xian-bao-5907-pi-liang-bao-bei.md)
+      * 2.2.2我报备的后续跟踪
+    * [2.3安置信息反馈](mu-lu/test/2ye-wu-guan-li/23an-zhi-xin-xi-fan-kui.md)
+      * [2.3.1安置反馈](mu-lu/test/2ye-wu-guan-li/23an-zhi-xin-xi-fan-kui/231an-zhi-fan-kui.md)
+    * [2.4返费相关功能说明](mu-lu/test/2ye-wu-guan-li/24fan-fei-xiang-guan-gong-neng-shuo-ming.md)
+      * [2.4.1返费申请](mu-lu/test/2ye-wu-guan-li/24fan-fei-xiang-guan-gong-neng-shuo-ming/241fan-fei-shen-qing.md)
+      * 2.4.2返费审批
+      * [2.4.3返费结算](mu-lu/test/2ye-wu-guan-li/24fan-fei-xiang-guan-gong-neng-shuo-ming/243fan-fei-jie-suan.md)
+    * [2.5呼叫中心相关使用说明](mu-lu/test/2ye-wu-guan-li/25hu-jiao-zhong-xin-xiang-guan-shi-yong-shuo-ming.md)
+      * [2.5.1仪表盘](mu-lu/test/2ye-wu-guan-li/25hu-jiao-zhong-xin-xiang-guan-shi-yong-shuo-ming/251yi-biao-pan.md)
+      * 2.5.2坐席呼叫
+      * 2.5.3安排面试（线上报备）
+      * 2.5.4简历私有库使用
+      * 2.5.5其他说明
+    * [2.6门店相关使用说明](mu-lu/test/2ye-wu-guan-li/26men-dian-xiang-guan-shi-yong-shuo-ming.md)
+      * [2.6.1新增/编辑门店  ](mu-lu/test/2ye-wu-guan-li/26men-dian-xiang-guan-shi-yong-shuo-ming/261xin-589e-bian-ji-men-dian.md)
+      * 2.6.2门店人员添加
+      * 2.6.3门店项目——新增项目关联
+      * [2.6.4门店现场报备](mu-lu/test/2ye-wu-guan-li/26men-dian-xiang-guan-shi-yong-shuo-ming/264men-dian-xian-chang-bao-bei.md)
+      * 2.6.5门店领队设置
+      * 2.6.6门店项目名单管理
+      * 2.6.7门店到店人员
+      * 2.6.8到店人员重新推荐
+    * [2.7简历池相关使用说明](mu-lu/test/2ye-wu-guan-li/27jian-li-chi-xiang-guan-shi-yong-shuo-ming.md)
+      * 2.7.1简历导入
 
